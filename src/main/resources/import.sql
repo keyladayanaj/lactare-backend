@@ -1,0 +1,3 @@
+-- Banco iniciado limpo: nenhuma doadora, apoio, profissional, coleta, consulta ou avaliação pré-cadastrada.
+-- O acesso da Equipe Lactare e do Médico é fixo e configurado em application-test.properties.
+-- Não são criados dados fictícios para preencher telas.
